@@ -17,3 +17,18 @@
 |9. |Pizza Bufalina - sos pomidorowy, mozzarella di bufala, bazylia, oliwki                            |         |27 zł |29 zł |35 zł |
 |10. |Pizza Hawaiian - sos pomidorowy, mozzarella, szynka, ananas                                      |         |25 zł |30 zł |32 zł |
 |11. |Pizza Calzone - ciasto zawijane z farszem mięsnym lub warzywnym, mozzarella, sos pomidorowy      |         |30 zł |35 zł |39 zł |
+
+
+## Pizze wegetariańskie 
+<img src = "img/pizza-gba0114900_1920.jpg" width = 300>
+
+|Lp. |Pizza:                                                                                  | rozmiar:|30 cm |50 cm |60 cm |
+|---|-----------------------------------------------------------------------------------------|---------|------|------|----- |
+|1. | Margherita - sos pomidorowy, mozzarella, bazylia                                        |         |22 zł |24 zł |26 zł |
+|2. | Veggie - sos pomidorowy, mozzarella, pomidory, cukinia, papryka, cebula, pieczarki      |         |24 zł |25 zł |28 zł |
+|3. | Four Seasons - sos pomidorowy, mozzarella, pieczarki, cebula, papryka, oliwki           |         |24 zł |26 zł |29 zł |
+|4. | Portobello - sos pomidorowy, mozzarella, pieczarki portobello, cebula, papryka, czosnek |         |26 zł |29 zł |31 zł |
+|5. | Pesto - sos z pesto, mozzarella, pomidory, cebula, rukola                               |         |26 zł |29 zł |32 zł |
+
+
+
