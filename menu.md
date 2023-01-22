@@ -19,6 +19,7 @@
 |11. |Pizza Calzone - ciasto zawijane z farszem mięsnym lub warzywnym, mozzarella, sos pomidorowy      |         |30 zł |35 zł |39 zł |
 
 
+
 ## Pizze wegetariańskie 
 <img src = "img/pizza-gba0114900_1920.jpg" width = 300>
 
@@ -31,4 +32,16 @@
 |5. | Pesto - sos z pesto, mozzarella, pomidory, cebula, rukola                               |         |26 zł |29 zł |32 zł |
 
 
+
+## Napoje 
+
+|Lp.|	Nazwa|	Puszka 330ml|	Butelka 0.5l|	Butelka 1l|
+|---|------|--------------|-------------|-----------|
+|1.|	Pepsi|	7 zł|	8 zł|	10 zł|
+|2.|	Coca-Cola|	6 zł|	8 zł|	9 zł|
+|3.|	Lipton Green|	6 zł|	8 zł|	9 zł|
+|4.|	Sok jabłkowy|	5 zł|	8 zł|	10 zł|
+|5.|	Sok pomarańczowy|	4 zł|	6 zł|	8zł|
+|6.|	Woda gazowana|	3 zł|	5 zł|	7 zł|
+|7.|	Woda niegazowana|	2 zł|	4 zł|	6 zł|
 
