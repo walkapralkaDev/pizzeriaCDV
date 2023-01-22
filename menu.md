@@ -9,3 +9,7 @@
 5. Pizza Capricciosa - sos pomidorowy, mozzarella, szynka, pieczarki, kapary, jajko
 6. Pizza Hawaii - sos pomidorowy, mozzarella, szynka, ananas
 7. Pizza BBQ - sos BBQ, mozzarella, kurczak, cebula, papryka
+8. Pizza Vegetariana - sos pomidorowy, mozzarella, cukinia, papryka, cebula, pieczarki, kukurydza
+9. Pizza Bufalina - 
+10. Pizza Hawaiian - 
+11. Pizza Calzone - 
