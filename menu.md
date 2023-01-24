@@ -32,6 +32,13 @@
 |5. | Pesto - sos z pesto, mozzarella, pomidory, cebula, rukola                               |         |26 zł |29 zł |32 zł |
 
 
+## Sałatki
+1. Sałatka Caesar - sałata lodowa, kurczak, grzanki, ser feta, krutony, sos Caesar
+2. Sałatka grecka - sałata rzymska, pomidory, ogórek, cebula, papryka, fety, oliwki, zielony ocet i oliwa z oliwek
+3. Sałatka z rukolą - rukola, pomarańcze, orzechy włoskie, ser brie, miodowy vinaigrette
+4. Sałatka z buraczków - buraki, jabłko, ser feta, orzechy laskowe, miodowy vinaigrette
+
+
 
 ## Napoje 
 
