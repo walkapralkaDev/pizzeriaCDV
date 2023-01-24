@@ -2,10 +2,14 @@
 
 ## Kierownik
 
+Maciej Adamowicz
+
 ## Kucharz
+
+Wojtek Król
 
 ## Obsługa 
 
-## Dostawca
+Kasia Paprzycka
+Aleksandra Olas
 
-## Grafik
