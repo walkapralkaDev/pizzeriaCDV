@@ -33,10 +33,10 @@
 
 
 ## Sałatki
-1. Sałatka Caesar - sałata lodowa, kurczak, grzanki, ser feta, krutony, sos Caesar
-2. Sałatka grecka - sałata rzymska, pomidory, ogórek, cebula, papryka, fety, oliwki, zielony ocet i oliwa z oliwek
-3. Sałatka z rukolą - rukola, pomarańcze, orzechy włoskie, ser brie, miodowy vinaigrette
-4. Sałatka z buraczków - buraki, jabłko, ser feta, orzechy laskowe, miodowy vinaigrette
+1. Sałatka Caesar - sałata lodowa, kurczak, grzanki, ser feta, krutony, sos Caesar 26 zł
+2. Sałatka grecka - sałata rzymska, pomidory, ogórek, cebula, papryka, fety, oliwki, zielony ocet i oliwa z oliwek 30 zł
+3. Sałatka z rukolą - rukola, pomarańcze, orzechy włoskie, ser brie, miodowy vinaigrette 25 zł
+4. Sałatka z buraczków - buraki, jabłko, ser feta, orzechy laskowe, miodowy vinaigrette 28 zł
 
 
 
