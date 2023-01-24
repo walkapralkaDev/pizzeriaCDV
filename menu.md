@@ -35,6 +35,8 @@
 
 ## Napoje 
 
+<img src = "img/napoje2345.jpg" width = 300>
+
 |Lp.|	Nazwa|	Puszka 330ml|	Butelka 0.5l|	Butelka 1l|
 |---|------|--------------|-------------|-----------|
 |1.|	Pepsi|	7 zł|	8 zł|	10 zł|
