@@ -12,6 +12,6 @@ Wojtek Król
 
 ## Obsługa 
 
-Kasia Paprzycka,
+Kasia Paprzycka<br>
 Aleksandra Olas
 
